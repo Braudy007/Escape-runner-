@@ -1,0 +1,19 @@
+# Compiled class file
+bin/
+*.class
+
+# Maven
+target/
+
+# IDE config files (optional - you might want to share these if it's a specific eclipse project, but usually better to ignore)
+# .classpath
+# .project
+# .settings/
+# .vscode/
+
+# System
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
